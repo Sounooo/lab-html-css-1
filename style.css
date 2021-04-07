@@ -1,0 +1,35 @@
+p {
+    letter-spacing: 0.1em;
+    word-spacing: 0.5em;
+    line-height: 1;
+    text-align: center;
+    color: steelblue;
+}
+
+.list {
+    color: khaki;
+    font-size: xx-large;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.let {
+    font-family: fantasy;
+    text-transform: uppercase;
+    text-decoration: overline;
+    color: rebeccapurple;
+    font-size: 2em;
+}
+body {
+    background-color: violet;
+
+}
+
+#attack {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+    
